@@ -1,4 +1,4 @@
-# fcc-technical-documentation
+# FreeCodeCamp - Technical Documentation
 
 ### Static page with HTML/CSS, showing case of layout for technical documentation - media queries for responsiveness 
 
